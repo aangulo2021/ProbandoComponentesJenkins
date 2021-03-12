@@ -15,3 +15,8 @@ Rsrc/main/java/co/com/certificacion/serempre/StellaArtois/tasks/AbrirNavegador.j
 Psrc/test/java/co/com/certificacion/serempre/StellaArtois/runners/RunnerTags.java,6\4\64586aa3f75bcf94a35c52d3beccc83fdea598ce
 C
 serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+†
+Vsrc/main/java/co/com/certificacion/serempre/StellaArtois/model/InicializarObjetos.java,2\c\2c20286dd4ceb57c6ae10ff3f2ed136ac0e41cfd
