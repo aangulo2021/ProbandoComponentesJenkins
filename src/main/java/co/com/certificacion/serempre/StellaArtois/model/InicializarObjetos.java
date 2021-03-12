@@ -1,4 +1,5 @@
 package co.com.certificacion.serempre.StellaArtois.model;
 
-public class InicializarObjetos {
+public class InicializarObjetos
+{
 }
