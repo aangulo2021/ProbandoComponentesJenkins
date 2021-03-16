@@ -2,7 +2,7 @@
 
   Característica: Buscar una cerveza en la pagina oficial de Stella Artois
 
-    @AbrirNavegador
+//    @AbrirNavegador
     Escenario: buscar una cerveza en esa pagina
 
       Dado que quiero abrir el navegador y quiero entrar a Stella Artois

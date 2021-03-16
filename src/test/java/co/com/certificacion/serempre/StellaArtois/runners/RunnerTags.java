@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src/test/resources/features/ProbandoStellaArtois.feature",
-        tags = {"@AbrirNavegador"},
+       // tags = {"@AbrirNavegador"},
         glue = {"co.com.certificacion.serempre.StellaArtois.stepdefinitions"},
         snippets = SnippetType.CAMELCASE)
 public class RunnerTags
